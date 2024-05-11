@@ -28,8 +28,8 @@
 
 ### Удаление
 ```rm about.html``` (от англ. ***r**e**m**ove*, «удалить») — удали файл ```about.html```;  
-```rmdir images``` (от англ. ***r**e**m**ove **dir**ectory*, «удалить директорию») — удали папку ```images```;  
-```rm -r second-project``` (от англ. *remove*, «удалить» + **r**ecursive, «рекурсивный») — удали папку ```second-project``` и всё, что она содержит.
+```rmdir images``` (от англ. ***r**e<strong>m</strong>ove **dir**ectory*, «удалить директорию») — удали папку ```images```;  
+```rm -r second-project``` (от англ. ***r**e<strong>m</strong>ove*, «удалить» + **r**ecursive, «рекурсивный») — удали папку ```second-project``` и всё, что она содержит.
 
 ## Полезные возможности
 
