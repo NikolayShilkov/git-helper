@@ -27,7 +27,7 @@
 ```cat file.txt``` (от англ. *con**cat**enate and print*, «объединить и распечатать») — распечатай содержимое текстового файла ```file.txt```.
 
 ### Удаление
-```rm about.html``` (от англ. ***r**e**m**ove*, «удалить») — удали файл ```about.html```;  
+```rm about.html``` (от англ. ***r**e<strong>m</strong>ove*, «удалить») — удали файл ```about.html```;  
 ```rmdir images``` (от англ. ***r**e<strong>m</strong>ove **dir**ectory*, «удалить директорию») — удали папку ```images```;  
 ```rm -r second-project``` (от англ. ***r**e<strong>m</strong>ove*, «удалить» + **r**ecursive, «рекурсивный») — удали папку ```second-project``` и всё, что она содержит.
 
