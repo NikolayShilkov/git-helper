@@ -185,6 +185,7 @@ user.email=username@yandex.ru
 `touch index.html` (англ. *touch*, «коснуться») — создай файл `index.html` в текущей папке;  
 `touch index.html style.css script.js` — если нужно создать сразу несколько файлов, можно напечатать их имена в одну строку через пробел;  
 `mkdir second-project` (от англ. ***m**a<strong>k</strong>e **dir**ectory*, «создать директорию») — создай папку с именем `second-project` в текущей папке.
+`mkdir -p dir1/dir-inside/dir-deeper-inside` - создай папку `dir-deeper-inside` в папке `dir-inside`, которая находится в папке `dir1`
 
 #### Копирование и перемещение
 `cp file.txt ~/my-dir` (от англ. ***c**o<strong>p</strong>y*, «копировать») — скопируй файл в другое место;  
