@@ -90,14 +90,14 @@ Windows поставляется с консолью — как и другие 
 
 Сделать это можно двумя способами:
 1. Ввести название программы в окно поиска на панели задач.
- ![LaunchGitBash1](/assets/images/LaunchGitBash1.png
+ ![LaunchGitBash1](/assets/images/LaunchGitBash1.png)
 
 2. Открыть директорию, в которую был установлен Git. 
 Обычно это директория `C:\Program Files\Git\bin`. Перейдите в `bin` и запустите файл `bash.exe`.
- ![LaunchGitBash2](/assets/images/LaunchGitBash2.png
+ ![LaunchGitBash2](/assets/images/LaunchGitBash2.png)
 
 Откроется консоль, в которой будет написано что-то похожее.
- ![LaunchGitBash3](/assets/images/LaunchGitBash3.png
+ ![LaunchGitBash3](/assets/images/LaunchGitBash3.png)
 
 Вместо `USER_NAME` будет указано ваше имя пользователя, а вместо `HOST_NAME` — имя компьютера. Если вы видите консоль, значит, установка прошла успешно.
 
